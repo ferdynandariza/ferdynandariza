@@ -1,9 +1,9 @@
 # Hello, World!
 <br/>
-Hello I am Ferdy, a <code>math</code> student at <a href=unila.ac.id>University of Lampung</a>. Currently I enrolled in <a href=g.co/bangkit> Bangkit Academy led by Google</a> on <code>Machine Learning</code> path.
+Hello I am Ferdy, a <code>math</code> student at <a href=https://unila.ac.id>University of Lampung</a>. Currently I enrolled in <a href=https://g.co/bangkit> Bangkit Academy led by Google</a> on <code>Machine Learning</code> path.
 <br/>
 <br/>
-For more info, you can follow me on <a href=linkedin.com/in/ferdynandariza> LinkedIn</a>, <a href=instagram.com/ferdynandariza>Instagram</a>, or <a href=waka8a@gmail.com>Email</a> me instead.
+For more info, you can follow me on <a href=https://linkedin.com/in/ferdynandariza> LinkedIn</a>, <a href=https://instagram.com/ferdynandariza>Instagram</a>, or <a href=mailto:waka8a@gmail.com>Email</a> me instead.
 
 <br/> 
 <br/>
